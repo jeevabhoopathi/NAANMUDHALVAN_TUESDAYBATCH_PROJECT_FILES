@@ -4,6 +4,6 @@ PROJECT CREATED BY:  JEEVA.B
 
 # LOGIN DETAILS:
 
-UNAME: admin
+USERNAME: admin
 
 password: admin
